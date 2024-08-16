@@ -31,7 +31,7 @@ class LYB:
         self.name = self.uid
 
     def xsign(self, api, data, wua, v):
-        url = "http://mzkj666.cn:18848/api/getXSign"
+        url = "http://elm.iiliil.cn/api/getXSign"
         body = {
             "data": data,
             "api": api,
